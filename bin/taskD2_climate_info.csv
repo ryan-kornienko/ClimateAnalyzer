@@ -1,0 +1,52 @@
+Task D2: Top 50 temperature deltas over a 9 year span
+Temperature,Year,Month,Country_Code
+5.79(C) 42.43(F),20052014,Sep,Paraguay,PRY
+5.86(C) 42.55(F),20032012,Dec,Latvia,LVA
+5.94(C) 42.69(F),20032012,Feb,Uzbekistan,UZB
+5.96(C) 42.72(F),20032012,Apr,Kyrgyzstan,KGZ
+6.0(C) 42.8(F),20022011,Jan,Korea. Democratic People's Republic of,PRK
+6.0(C) 42.81(F),20032012,Jan,Finland,FIN
+6.02(C) 42.84(F),20042013,Mar,Finland,FIN
+6.05(C) 42.89(F),20022011,Oct,Estonia,EST
+6.05(C) 42.89(F),20022011,Oct,Finland,FIN
+6.06(C) 42.91(F),20052014,Jan,Finland,FIN
+6.07(C) 42.93(F),20042013,Feb,Mongolia,MNG
+6.13(C) 43.04(F),20012010,Nov,Romania,ROU
+6.27(C) 43.29(F),20032012,Dec,Estonia,EST
+6.29(C) 43.33(F),20032012,Feb,Kazakhstan,KAZ
+6.48(C) 43.66(F),20012010,Nov,Moldova,MDA
+6.71(C) 44.08(F),20062015,Feb,Latvia,LVA
+6.71(C) 44.08(F),20062015,Feb,Belarus,BLR
+6.83(C) 44.3(F),20022011,Nov,Norway,NOR
+6.83(C) 44.3(F),20002009,Apr,Uzbekistan,UZB
+6.84(C) 44.32(F),20042013,Dec,Russia,RUS
+6.93(C) 44.48(F),20002009,Apr,Turkmenistan,TKM
+7.08(C) 44.74(F),20052014,Feb,Bosnia and Herzegovina,BIH
+7.28(C) 45.1(F),20022011,Mar,Kazakhstan,KAZ
+7.31(C) 45.16(F),20022011,Nov,Sweden,SWE
+7.36(C) 45.24(F),20052014,Feb,Hungary,HUN
+7.44(C) 45.4(F),20062015,Jan,Uzbekistan,UZB
+7.45(C) 45.42(F),20062015,Mar,Sweden,SWE
+7.57(C) 45.63(F),20032012,Dec,Kazakhstan,KAZ
+7.62(C) 45.72(F),20032012,Apr,Kazakhstan,KAZ
+7.63(C) 45.73(F),20062015,Mar,Estonia,EST
+7.65(C) 45.76(F),20062015,Feb,Estonia,EST
+7.72(C) 45.89(F),20052014,Feb,Republic of Serbia,SRB
+7.86(C) 46.16(F),20062015,Jan,Poland,POL
+7.88(C) 46.19(F),20052014,Mar,Latvia,LVA
+8.0(C) 46.39(F),20052014,Mar,Lithuania,LTU
+8.13(C) 46.63(F),20062015,Jan,Kazakhstan,KAZ
+8.13(C) 46.63(F),20022011,Nov,Finland,FIN
+8.5(C) 47.3(F),20052014,Mar,Belarus,BLR
+8.91(C) 48.04(F),20062015,Mar,Finland,FIN
+9.22(C) 48.6(F),20022011,Jan,Mongolia,MNG
+9.32(C) 48.77(F),20022011,Feb,Belarus,BLR
+9.34(C) 48.82(F),20012010,Jan,Finland,FIN
+9.37(C) 48.86(F),20022011,Feb,Finland,FIN
+9.46(C) 49.02(F),20022011,Feb,Estonia,EST
+9.52(C) 49.13(F),20012010,Jan,Latvia,LVA
+9.65(C) 49.37(F),20022011,Jan,Kazakhstan,KAZ
+9.86(C) 49.75(F),20022011,Dec,Estonia,EST
+10.09(C) 50.17(F),20012010,Jan,Estonia,EST
+10.39(C) 50.7(F),20022011,Dec,Belarus,BLR
+11.21(C) 52.18(F),20022011,Dec,Finland,FIN

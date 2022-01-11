@@ -1,0 +1,12 @@
+Task B1: Lowest temperatures of all countries in Dec
+Temperature,Year,Month,Country_Code
+-27.21(C) -16.98(F),2002,Dec,Russia,RUS
+-26.97(C) -16.55(F),2004,Dec,Greenland,GRL
+-23.91(C) -11.05(F),2013,Dec,Canada,CAN
+-20.73(C) -5.31(F),2012,Dec,Mongolia,MNG
+-14.46(C) 5.97(F),2002,Dec,Kazakhstan,KAZ
+-13.62(C) 7.48(F),2010,Dec,Finland,FIN
+-13.01(C) 8.59(F),2010,Dec,Sweden,SWE
+-12.55(C) 9.4(F),2012,Dec,Korea. Democratic People's Republic of,PRK
+-12.25(C) 9.94(F),2012,Dec,Kyrgyzstan,KGZ
+-11.05(C) 12.11(F),2010,Dec,Norway,NOR

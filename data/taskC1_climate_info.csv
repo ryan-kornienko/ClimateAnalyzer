@@ -1,0 +1,12 @@
+Task C1: Countries in May with the highest temperature differences from the year 2004-2005
+Temperature,Year,Month,Country_Code
+2.28(C) 36.1(F),20042005,May,Croatia,HRV
+2.35(C) 36.23(F),20042005,May,Italy,ITA
+2.37(C) 36.27(F),20042005,May,Slovenia,SVN
+2.49(C) 36.49(F),20042005,May,Afghanistan,AFG
+2.52(C) 36.53(F),20042005,May,Tunisia,TUN
+2.55(C) 36.58(F),20042005,May,Ukraine,UKR
+2.61(C) 36.7(F),20042005,May,Canada,CAN
+2.95(C) 37.3(F),20042005,May,Algeria,DZA
+3.81(C) 38.86(F),20042005,May,Morocco,MAR
+4.42(C) 39.95(F),20042005,May,Paraguay,PRY
